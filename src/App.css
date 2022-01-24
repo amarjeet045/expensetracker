@@ -2,3 +2,26 @@
   text-align: center;
 }
 
+.inputField{
+  width: 90%;
+}
+.errorText{
+  color: red;
+}
+.historyCardDebit,.historyCardCredit,.AccountBalance{
+  max-width: 400px;
+  display: block;
+  margin: 20px auto;
+}
+.newTransactionButton{
+  display: block !important;
+  margin: 20px auto !important;
+}
+.HomePage{
+  display: flex;
+  
+  gap:25px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
